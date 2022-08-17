@@ -1,3 +1,4 @@
 42 / 6
 
-42 / 0
+# Commented out to avoid divide by zero error:
+# 42 / 0
